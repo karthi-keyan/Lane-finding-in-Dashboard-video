@@ -2,7 +2,7 @@
 Finding lanes in the self driving car
 it is the part of Udacity's self driving car course
 finding lanes from dashboard view involves following steps:
-1.for each frame in video:\n
+1.for each frame in video:'\n'
       1.converting the frame into grayscale
       2.smoothening of frame in order to remove noise
       3.applying canny ie. it finds the gradient in the image to detect the edges
